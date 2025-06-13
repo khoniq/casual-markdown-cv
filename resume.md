@@ -1,48 +1,38 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpgxxx" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  khoniq.chen@email.com <br> mobile: +886 963016636 <br> Nationality: Taiwanese
 </span>
 
-# Casualwriter  
+# 陳宇軒 Yushuan CHEN  
 
-## Executive Summary
+## Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* 5+ years translation experience. 
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Shadowmoon (Project Manager, 2024 - April 2025) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Lead team of 5 to oversee requirement gathering, execution and presentation of 3DGS modeling results.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### JC IP Group (Patent Translator, 2019 - 2024) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+* Assisted in coordination between patent engineers and clients, including Applied Materials, LG Chem, amongst others. 
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+#### Synology (Technical Writer, 2016 - 2017)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
-
-## Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* Drafted press releases, installation guide, FAQs, Help articles.
+* Coordinated UI design and localization of moblie/desktop applications. 
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* IELTS 7.5
+* TOEFL 103
+* Bachelor of Arts, English Literature (June 2014)
+* National Chengchi Univeristy (Taiwan)
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Languages: English (fluent), Mandarin (native)
 * Availability: 1 month's notice
