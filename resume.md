@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpgxxx" />
+
 
 <span style="float:right;padding:6px"> 
   khoniq.chen@email.com <br> mobile: +886 963016636 <br> Nationality: Taiwanese
