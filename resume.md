@@ -25,14 +25,19 @@
 * Drafted press releases, installation guide, FAQs, Help articles.
 * Coordinated UI design and localization of moblie/desktop applications. 
 
+#### Other Experience
+
+* Tibet Post International (Dharamsala, India) - Volunteer Correspondent
+* Citizen Congress Watch (Taipei, Taiwan) - Volunteer Correspondent
+
 ## Education & Qualifications
 
 * IELTS 7.5
 * TOEFL 103
-* Bachelor of Arts, English Literature (June 2014)
-* National Chengchi Univeristy (Taiwan)
+* Bachelor of Arts, English Literature, National Chengchi Univeristy (Taiwan, June 2014)
 
 ## Misc. Information
 
-* Languages: English (fluent), Mandarin (native)
+* Languages: Mandarin (native), English (fluent), French (basic)
+* INTERNATIONAL LIFE SAVING FEDERATION (ILS) certified lifeguard
 * Availability: 1 month's notice
