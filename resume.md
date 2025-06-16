@@ -42,5 +42,5 @@ layout: page
   * French (basic， B1) 
 
 ## Misc. Info
-* [Photogrpahy hobbyist](https://www.instagram.com/yushuanchen9112/)
-* INTERNATIONAL LIFE SAVING FEDERATION (ILS) Certified Lifeguard
+* [📷 Photogrpahy hobbyist](https://www.instagram.com/yushuanchen9112/)
+* 🏊 INTERNATIONAL LIFE SAVING FEDERATION (ILS) Certified Lifeguard
