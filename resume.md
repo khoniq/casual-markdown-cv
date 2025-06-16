@@ -32,12 +32,13 @@
 
 ## Education & Qualifications
 
-* IELTS 7.5
-* TOEFL 103
 * Bachelor of Arts, English Literature, National Chengchi Univeristy (Taiwan, June 2014)
+* Languages:
+  * Mandarin (native)
+  * English (fluent, IELTS 7.5)
+  * French (basic， B1) 
 
 ## Misc. Information
-
-* Languages: Mandarin (native), English (fluent), French (basic)
 * INTERNATIONAL LIFE SAVING FEDERATION (ILS) certified lifeguard
+* [Photogrpahy hobbyist](https://www.instagram.com/yushuanchen9112/)
 * Availability: 1 month's notice
