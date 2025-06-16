@@ -4,7 +4,7 @@ layout: page
 ---
 
 <span style="float:right;padding:6px"> 
-  khoniq.chen@email.com <br> mobile: +886 963016636 <br> Nationality: Taiwanese
+  khoniq.chen@gmail.com <br> mobile: +886 963016636 <br> Nationality: Taiwanese
 </span>
 
 # 陳宇軒 Yushuan CHEN  
@@ -41,7 +41,6 @@ layout: page
   * English (fluent, IELTS 7.5)
   * French (basic， B1) 
 
-## Misc. Information
-* INTERNATIONAL LIFE SAVING FEDERATION (ILS) certified lifeguard
+## Misc. Info
 * [Photogrpahy hobbyist](https://www.instagram.com/yushuanchen9112/)
-* Availability: 1 month's notice
+* INTERNATIONAL LIFE SAVING FEDERATION (ILS) Certified Lifeguard
